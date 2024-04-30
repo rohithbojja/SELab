@@ -1,0 +1,16 @@
+echo "# git_app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rohithbojja/git_app.git
+git push -u origin main
+
+
+git config --global user.name rohithbojja
+git config --global user.email rohithbojja03@gmail.com
+
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --unset credential.helper
+git config --global --unset-all
