@@ -17,7 +17,7 @@ def run_cmd(cmd: str):
     for line in process.stdout:
         print(line.strip())
 
-cmd = "/opt/llama.cpp/llama-server -m /opt/llama.cpp/unsloth.Q4_K_M.gguf --host 0.0.0.0 --port 11436 --chat-template chatml -t 12 -ngl 0 -ctk f16 --system-prompt-file /opt/llama.cpp/prompt_file.txt"
+cmd = "/app/llama-server -m /app/llama-server/unsloth.Q4_K_M.gguf --host 0.0.0.0 --port 11436 --chat-template chatml -t 12 -ngl 0 -ctk f16 --system-prompt-file /app/llama-server/prompt_file.txt"
 
 # Create a thread that runs the command
 cmd_thread = threading.Thread(target=run_cmd, args=(cmd,))
