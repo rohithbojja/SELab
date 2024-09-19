@@ -1,0 +1,87 @@
+[
+  {
+    "name": "chicken breast",
+    "quantity": "500",
+    "unit": "grams"
+  },
+  {
+    "name": "olive oil",
+    "quantity": "2",
+    "unit": "tablespoons"
+  },
+  {
+    "name": "garlic cloves",
+    "quantity": "3",
+    "unit": "cloves, minced"
+  },
+  {
+    "name": "lemon juice",
+    "quantity": "2",
+    "unit": "tablespoons"
+  },
+  {
+    "name": "salt",
+    "quantity": "1",
+    "unit": "teaspoon"
+  },
+  {
+    "name": "black pepper",
+    "quantity": "1/2",
+    "unit": "teaspoon"
+  },
+  {
+    "name": "dried thyme",
+    "quantity": "1",
+    "unit": "teaspoon"
+  },
+  {
+    "name": "butter",
+    "quantity": "1",
+    "unit": "tablespoon"
+  },
+  {
+    "name": "chicken broth",
+    "quantity": "1/2",
+    "unit": "cup"
+  },
+  {
+    "name": "onion",
+    "quantity": "1",
+    "unit": "medium, chopped"
+  },
+  {
+    "name": "carrots",
+    "quantity": "2",
+    "unit": "medium, diced"
+  },
+  {
+    "name": "celery stalks",
+    "quantity": "2",
+    "unit": "stalks, diced"
+  },
+  {
+    "name": "white wine",
+    "quantity": "1/4",
+    "unit": "cup"
+  },
+  {
+    "name": "fresh parsley",
+    "quantity": "2",
+    "unit": "tablespoons, chopped"
+  },
+  {
+    "name": "bay leaf",
+    "quantity": "1",
+    "unit": "leaf"
+  },
+  {
+    "name": "paprika",
+    "quantity": "1",
+    "unit": "teaspoon"
+  },
+  {
+    "name": "cumin",
+    "quantity": "1/2",
+    "unit": "teaspoon"
+  }
+]
